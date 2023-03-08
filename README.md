@@ -1,8 +1,8 @@
-# tax-bracket-visualization
+# pfin-tools
 
-## About Tax Bracket Visualizer
+## About Personal Finance Tools
 
-`Tax Bracket Visualizer` is personal curiosity project about visualizing the different effects of the tax brackets. This project is currently only a .ipynb notebook, but I could potentially expand upon it to include a scraper + interactive web dashboard.
+`Personal Finance Tools` is repo containing various custom-coded data projects about tax visualization, projected income earnings, etc. They are mainly for personal use, but if others find value from them, feel free to use.
 
 Data from [Forbes](https://www.forbes.com/advisor/taxes/taxes-federal-income-tax-bracket/), accessed 2/20/22.
 
@@ -10,6 +10,7 @@ Data from [Forbes](https://www.forbes.com/advisor/taxes/taxes-federal-income-tax
 - Python
     - Pandas
     - Matplotlib
+    - Collections
 
 ## Technical Skills
 - Cleaning, formatting
